@@ -10,7 +10,6 @@
 
 # production
 /build
-/settings/rarity.json
 
 # misc
 .DS_Store

@@ -11,18 +11,22 @@
 
 4) Copy n Paste photos to new layers folder
 
-5) Update AttributeArray.xlsx
+5) node scripts/generateRarityConfig.js
 
-6) python scripts/helloWorld.py
+6) node scripts/create.js
 
-7) Copy and paste New array to updateMeta.js
+6) Update AttributeArray.xlsx
 
-8) node scripts/updateMeta.js
+7) python scripts/helloWorld.py
 
-9) upload Images to pinata
+8) Copy and paste New array to updateMeta.js
 
-10) upload Metadata to pinata
+9) node scripts/updateMeta.js
 
-11) update image location to Pinata Metadata CID in config.json
+10) upload Images to pinata
 
-12) node scripts/regenerateMetadata.js
+11) upload Metadata to pinata
+
+12) update image location to Pinata Metadata CID in config.json
+
+13) node scripts/regenerateMetadata.js
