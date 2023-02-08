@@ -6,8 +6,8 @@
     "image_description": "Your New Project",
     "image_count": 25,
     "image_details": {
-        "width": 512,
-        "height": 512
+        "width": 1080,
+        "height": 1080
     },
     "image_location": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt"
 }
